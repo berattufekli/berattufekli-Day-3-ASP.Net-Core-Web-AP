@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CDWb/VTvks9Gd/5cSwhWO9UbgIpZPdluMeHCsr+Uj5ikaYrWX/r3spAejRsjmArdKDyLQ3Otx2Hdmf8IqbxeZg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\berat\\source\\repos\\BeratTüfekli-Math.WebAPI\\ChatApp.MathApi\\ChatApp.MathApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
